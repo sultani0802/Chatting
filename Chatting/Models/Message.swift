@@ -7,3 +7,15 @@
 //
 
 import Foundation
+
+class Message {
+    
+    // MARK: - Variables
+    var sender: String = ""
+    var messageBody: String = ""
+    
+    init(s: String, m: String){
+        sender = s
+        messageBody = m
+    }
+}
