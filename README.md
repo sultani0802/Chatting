@@ -7,8 +7,6 @@ Basic group chat app
 ## Notes
 This event-driven app features animations, REST api calls, open source SDK's, Firebase, 
 
-This app is an unfinished project from a while ago. It features OOP for a event-driven app, extensions/protocols, animations, REST api, third-party and official SDKs such as facebook authentication, closures, error-handling, MVC, regular expressions, tableViews used in conjunction with tabBar,  sending and receiving data (strings, vars, images) to a server.
-
 ## Developer
 - Haamed Sultani
 
